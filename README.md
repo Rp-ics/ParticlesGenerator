@@ -12,10 +12,8 @@ A powerful and customizable particle simulation GUI built with **PyQt5**. This a
 
 ### 🎬 Live Simulations
 
-<p align="center">
-  <img src="https://i.ibb.co/pVvvZhy/3.gif" width="400" alt="Particle Simulation 1"/>
-  <img src="https://i.ibb.co/zHRLyDyq/4.gif" width="400" alt="Particle Simulation 2"/>
-</p>
+(images/1.png)(images/2.png)(images/3.png)
+(images/1.gif)(images/2.gif)(images/3.gif)
 
 ### 🖼 Interface Snapshots
 
